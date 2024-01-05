@@ -2,10 +2,10 @@
     padding: 0px;
     margin: 0px;
     font-family: 'Courier New', Courier, monospace;
-    color: rgb(253,207,179);
+    color: rgb(75, 52, 157);
 }
 body{
-    background-color: rgb(206,200,228);
+    background-color: rgb(249,247,232);
 }
 .container{
     display: flex;
@@ -19,7 +19,7 @@ body{
 }
 
 .site_display{
-    background-color: rgb(249,247,232);
+    background-color: rgb(253,207,179);
     border-radius: 10px;
     height: 50px;
     display: flex;
